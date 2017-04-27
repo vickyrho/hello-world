@@ -1,2 +1,7 @@
-# hello-world
-the starting project in github
+#include<iostream>
+
+int main()
+{
+  cout<<"hello World";
+  return 0;
+}
